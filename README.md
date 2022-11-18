@@ -1,7 +1,7 @@
 # F304
-# Program make a simple calculator
-
 # This function adds two numbers
+
+# Program make a simple calculator
 def add(x, y):
     return x + y
 
